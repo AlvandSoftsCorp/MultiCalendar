@@ -1,38 +1,3 @@
-Skip to content
-Search or jump to…
-
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@AlvandSoftsCorp 
-Learn Git and GitHub without any code!
-Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
-
-
-AlvandSoftsCorp
-/
-chron
-1
-00
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-chron/js/MultiCalendar.js /
-@ahmprs
-ahmprs javascript codes added
-Latest commit 932d9a0 11 minutes ago
- History
- 1 contributor
-398 lines (353 sloc)  12.1 KB
-  
 //multi calendar code
 //1397-12-01
 //-----------------------------------------
@@ -431,15 +396,3 @@ class MultiCalendar {
         };
     }
 }
-© 2020 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Help
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About

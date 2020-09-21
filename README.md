@@ -1,2 +1,2 @@
 # MultiCalendar
-A useful multi-calendar
+A useful multi-calendar in javascript
